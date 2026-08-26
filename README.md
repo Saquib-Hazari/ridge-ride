@@ -10,9 +10,9 @@ Explore capable bikes, riding gear, apparel, workshops, and trail knowledge in o
 
 <p>
   <a href="https://github.com/Saquib-Hazari/ridge-ride"><img src="https://img.shields.io/badge/Source-GitHub-111111?style=for-the-badge&logo=github" alt="Source code" /></a>
-  <a href="[https://www.linkedin.com/in/your-profile](https://www.linkedin.com/in/saquib-hazari/)"><img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin" alt="LinkedIn" /></a>
-  <a href="[https://x.com/your-handl](https://x.com/Briviotech)"><img src="https://img.shields.io/badge/Twitter%2FX-Follow-111111?style=for-the-badge&logo=x" alt="Twitter or X" /></a>
-  <a href="[https://www.behance.net/your-profile](https://www.behance.net/saquibhazari1)"><img src="https://img.shields.io/badge/Behance-Portfolio-1769FF?style=for-the-badge&logo=behance" alt="Behance" /></a>
+  <a href="https://www.linkedin.com/in/saquib-hazari/"><img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin" alt="LinkedIn" /></a>
+  <a href="https://x.com/Briviotech"><img src="https://img.shields.io/badge/Twitter%2FX-Follow-111111?style=for-the-badge&logo=x" alt="Twitter or X" /></a>
+  <a href="https://www.behance.net/saquibhazari1"><img src="https://img.shields.io/badge/Behance-Portfolio-1769FF?style=for-the-badge&logo=behance" alt="Behance" /></a>
 </p>
 
 </div>
