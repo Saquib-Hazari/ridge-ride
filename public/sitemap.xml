@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
+  <url><loc>https://your-production-domain.example/</loc></url>
+  <url><loc>https://your-production-domain.example/mountain-bikes</loc></url>
+  <url><loc>https://your-production-domain.example/parts-gear</loc></url>
+  <url><loc>https://your-production-domain.example/apparel</loc></url>
+  <url><loc>https://your-production-domain.example/service</loc></url>
+  <url><loc>https://your-production-domain.example/about</loc></url>
+  <url><loc>https://your-production-domain.example/policies</loc></url>
+  <url><loc>https://your-production-domain.example/guides/trail</loc></url>
+  <url><loc>https://your-production-domain.example/guides/enduro</loc></url>
+  <url><loc>https://your-production-domain.example/guides/downhill</loc></url>
+</urlset>
